@@ -6,3 +6,6 @@ This interactive dashboard provides a comprehensive view of revenue, total sales
 With this dashboard, you can effortlessly track sales performance across multiple stores, identify top-selling products, and analyze trends over time. Whether you're a coffee shop owner, manager, or enthusiast, this tool empowers you to gain valuable insights and optimize business operations.
 
 Explore the dashboard, dive into the data, and unlock the potential of your coffee sales data like never before! ☕️💼
+
+Please click the link below:
+https://1drv.ms/x/c/52bdc6f197b9d4ef/Eaca4MsF-cVCrZ-MjS88EooBRQeYaHgDArPrKTrbj-N6hQ?e=WnbJDL
